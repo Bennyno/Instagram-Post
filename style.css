@@ -1,0 +1,49 @@
+body {
+	background: black;
+	margin:0;
+}
+
+.header {
+	display: inline-block;
+	width: 1px;
+	height: 50px;
+	margin: 5px;
+	padding: 5px;
+
+}
+
+.container {
+	width: 600px;
+	margin: auto;
+	background: white;
+}
+
+.post-icons {
+	margin-top: 5px;
+	margin-left: 15px;
+	font-size: 25px;
+}
+
+span {
+	display: inline-block;
+	width: 5px;
+	margin-left: 440px;
+	padding: 5px;
+}
+
+#dots {
+	display: inline-block;
+	width: 5px;
+	margin-left: 505px;
+	padding: 5px;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	margin-left: 10px;
+}
+
+#caption {
+	padding-bottom: 15px;
+}
